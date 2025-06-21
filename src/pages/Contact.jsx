@@ -8,7 +8,7 @@ export default function Contact() {
         <p><i className="fas fa-envelope me-2"></i>Email: ivanc.bcn@gmail.com</p>
         <p>
             <i className="fab fa-linkedin me-2"></i>
-            LinkedIn: <a href="https://www.linkedin.com/in/IvanCasado" target="_blank" rel="noopener noreferrer">
+            LinkedIn: <a href="https://www.linkedin.com/in/iván-casado-mouteira-28827a277" target="_blank" rel="noopener noreferrer">
             IvanCasado
             </a>
         </p>
