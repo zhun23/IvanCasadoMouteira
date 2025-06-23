@@ -19,12 +19,11 @@ export default function Contact() {
       </a>
       </p>
       <a
-        href="/CV_Ivan_Casado.pdf"
+        href={`${import.meta.env.BASE_URL}CV_Ivan_Casado.pdf`}
         download="CV_Ivan_Casado.pdf"
         target="_blank"
         rel="noopener noreferrer"
-      >
-      Descargar currículum en PDF
+      >Descargar currículum en PDF
       </a>
     </section>
   )

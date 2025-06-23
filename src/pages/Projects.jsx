@@ -35,7 +35,7 @@ export default function Projects() {
                 www.teirak.com
               </a>
               <a
-                href="https://www.teirak.com/backend/swagger-ui/index.html"
+                href="https://teirak.com/backend/swagger-ui/index.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="d-block ps-2"
