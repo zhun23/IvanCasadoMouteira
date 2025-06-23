@@ -12,7 +12,7 @@ export default function Projects() {
           <strong>Portfolio personal Tienda online de películas v2.0</strong> – Spring + React + MySQL + OpenAPI + Docker<br />
           - Proyecto web en desarrollo y despleguado en producción simulando una tienda online<br />
           - Consta de 2 repositorios, backend y frontend pero <strong>solo están disponibles bajo solicitud</strong>
-          <div className="d-flex align-items-center gap-3 mt-2 mb-3">
+          <div className="d-flex flex-column flex-md-row align-items-center gap-3 mt-2 mb-3">
             <img
                 src={movifilms2}
                 alt="Logo MovieFilms2.0"
@@ -49,7 +49,7 @@ export default function Projects() {
             <strong>Tienda online de películas</strong> – Spring + Thymeleaf + JS + MySQL
             <br />
             - Proyecto final de CFGS AppWeb tienda de películas con autenticación con gestión de catálogo y usuarios
-            <div className="d-flex align-items-center gap-3 mt-2 mb-3">
+            <div className="d-flex flex-column flex-md-row align-items-center gap-3 mt-2 mb-3">
                 <img
                     src={movifilms}
                     alt="Logo MovieFilms1.0"
